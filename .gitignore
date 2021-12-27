@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Developers directory
+test_plugin.py
+test.py
+token.txt
+state.py
